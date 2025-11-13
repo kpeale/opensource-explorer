@@ -75,17 +75,17 @@ Managing Bookmarks
 
 Finding Good First Issues
 
-1.Navigate to the Issues tab
-2.Click Good First Issues
-3.Optionally filter by language
-4.Click any issue to open it in GitHub
+1. Navigate to the Issues tab
+2. Click Good First Issues
+3. Optionally filter by language
+4. Click any issue to open it in GitHub
 
 Viewing Your Repositories
 
-1.Login to GitHub (required)
-2.Navigate to the My Repositories tab
-3.See all your public and private repositories
-4.Click to view details or clone
+1. Login to GitHub (required)
+2. Navigate to the My Repositories tab
+3. See all your public and private repositories
+4. Click to view details or clone
 
 ## Requirements
 
@@ -95,15 +95,15 @@ Have a github account, does not support gitlab yet
 
 ## Installation
 
-1.Open VS Code
-2.Go to Extensions (Ctrl+Shift+X or Cmd+Shift+X)
-3.Search for "Open Source Explorer"
-4.Click Install
+1. Open VS Code
+2. Go to Extensions (Ctrl+Shift+X or Cmd+Shift+X)
+3. Search for "Open Source Explorer"
+4. Click Install
 
 ## First Use
 
-1.Click the Open Source Explorer icon in the Activity Bar (left sidebar)
-2.(Optional but recommended) Click Login to authenticate with GitHub
+1. Click the Open Source Explorer icon in the Activity Bar (left sidebar)
+2. (Optional but recommended) Click Login to authenticate with GitHub
 
 * Unauthenticated: 60 API requests/hour
 * Authenticated: 5000 API requests/hour 🚀
