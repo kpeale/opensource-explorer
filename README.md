@@ -48,30 +48,30 @@ Trending Repositories: Stay updated with what's hot:
 ## Usage
 Searching for Repositories
 
-1.Open the Explorer view
-2.Enter your search query (e.g., "react", "machine learning")
-3.Select a programming language (optional)
-4.Choose sort order (Stars, Recently Updated, Forks)
+1. Open the Explorer view
+2. Enter your search query (e.g., "react", "machine learning")
+3. Select a programming language (optional)
+4. Choose sort order (Stars, Recently Updated, Forks)
 5. Click Search
 
 Viewing Repository Details
 
-1.Click on any repository from search results
-2.View the Details panel to see:
+1. Click on any repository from search results
+2. View the Details panel to see:
 
 * Repository description and statistics
 * README file (rendered markdown)
 * Star, Fork, Clone, and Save buttons
 
 
-3.Click buttons to interact with the repository
+3. Click buttons to interact with the repository
 
 Managing Bookmarks
 
-1.Click the 💾 Save button on any repository
-2.View saved repositories in the Saved tab
-3.Click × to remove a bookmark
-4.Click Clear All to remove all bookmarks
+1. Click the 💾 Save button on any repository
+2. View saved repositories in the Saved tab
+3. Click × to remove a bookmark
+4. Click Clear All to remove all bookmarks
 
 Finding Good First Issues
 
