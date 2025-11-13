@@ -56,22 +56,22 @@ Searching for Repositories
 
 Viewing Repository Details
 
-1. Click on any repository from search results
-2. View the Details panel to see:
+1.Click on any repository from search results
+2.View the Details panel to see:
 
 * Repository description and statistics
 * README file (rendered markdown)
 * Star, Fork, Clone, and Save buttons
 
 
-3. Click buttons to interact with the repository
+3.Click buttons to interact with the repository
 
 Managing Bookmarks
 
 1.Click the 💾 Save button on any repository
 2.View saved repositories in the Saved tab
 3.Click × to remove a bookmark
-4. Click Clear All to remove all bookmarks
+4.Click Clear All to remove all bookmarks
 
 Finding Good First Issues
 
@@ -95,15 +95,15 @@ Have a github account, does not support gitlab yet
 
 ## Installation
 
-1 Open VS Code
-2 Go to Extensions (Ctrl+Shift+X or Cmd+Shift+X)
-3 Search for "Open Source Explorer"
-4 Click Install
+1.Open VS Code
+2.Go to Extensions (Ctrl+Shift+X or Cmd+Shift+X)
+3.Search for "Open Source Explorer"
+4.Click Install
 
 ## First Use
 
-1 Click the Open Source Explorer icon in the Activity Bar (left sidebar)
-2 (Optional but recommended) Click Login to authenticate with GitHub
+1.Click the Open Source Explorer icon in the Activity Bar (left sidebar)
+2.(Optional but recommended) Click Login to authenticate with GitHub
 
 * Unauthenticated: 60 API requests/hour
 * Authenticated: 5000 API requests/hour 🚀
@@ -144,4 +144,4 @@ You can author your README using Visual Studio Code. Here are some useful editor
 
 
 
-**Enjoy!**
+**created by kpeale legbara for developers to enjoy!**
